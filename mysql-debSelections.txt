@@ -1,0 +1,4 @@
+mysql-community-server mysql-community-server/data-dir select
+mysql-community-server mysql-community-server/root-pass password
+mysql-community-server mysql-community-server/re-root-pass password
+mysql-community-server mysql-community-server/remove-test-db select false
